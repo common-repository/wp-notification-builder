@@ -1,0 +1,14 @@
+@charset: UTF-8;
+/*
+* wp notification bulder styles
+*/
+div#wp-notification-overlay {
+    opacity: 1;
+    transform: scale(1);
+}
+.modal-dialog.wp-notification-bulder {
+    border: 5px solid white;
+    border-radius: 10px;
+    margin-top: 10%;
+}
+
